@@ -1,0 +1,1 @@
+New changes to my txt file. How do we commit this changes to git.
