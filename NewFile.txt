@@ -1,1 +1,5 @@
 New changes to my txt file. How do we commit this changes to git.
+
+This is a modification of my new file just to demonstrate how git and GitHub works. Get this modification into the remote repository. 
+
+Thank you.
